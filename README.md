@@ -4,7 +4,6 @@
 
 
 # OpenAI Leaderboard Takeover
-[![Nextgrid Artificial Intelligence](https://storage.googleapis.com/nextgrid_github_repo_visuals/Github%20Graphics%20/big-banner.jpg)](https://nextgrid.ai)
 
 Mission: Take top position in all [OpenAI leaderboards](https://github.com/openai/gym/wiki/Leaderboard). By [Deep Learning Labs](https://lablab.ai).
 
@@ -20,11 +19,4 @@ Mission: Take top position in all [OpenAI leaderboards](https://github.com/opena
 - [ ] CarRacing-v0
 
 ---
-![Discord Banner 1](https://discordapp.com/api/guilds/877056448956346408/widget.png?style=banner1)  
-Join our Discord and [Deep Learning Labs](https://lablab.ai) Event
 
-[![Deep Learning Labs AI ](https://storage.googleapis.com/nextgrid_github_repo_visuals/Github%20Graphics%20/small-banner.jpg)](https://lablab.ai)
-
-## Nextgrid AI Seed program
-
-[![Nextgrid Partners](https://storage.googleapis.com/nextgrid_github_repo_visuals/Github%20Graphics%20/partner-banner.jpg)](https://nextgrid.ai/partners/)
